@@ -1,5 +1,6 @@
 # Graphene
 Pre-trained graph neural network and downstream tasks
+Self-supervised graph representation learning integrates multiple molecular networks and decodes gene-disease relationship
 
 ## Download files
 Download the following files respectively 
